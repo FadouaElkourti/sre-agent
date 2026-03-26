@@ -1,4 +1,4 @@
-# 🤖 Azure SRE Agent — Chuleta Rápida
+# 🤖 Azure SRE Agent — nota Rápida
 
 ## ¿Qué es?
 Un agente de IA conectado a tu infraestructura Azure que **investiga y remedia incidentes automáticamente**, 24/7, sin intervención humana.
